@@ -1011,7 +1011,7 @@
       <workItem from="1574044376370" duration="555000" />
       <workItem from="1574301065927" duration="785000" />
       <workItem from="1574398339693" duration="834000" />
-      <workItem from="1576115595966" duration="1040000" />
+      <workItem from="1576115595966" duration="1330000" />
     </task>
     <servers />
   </component>
@@ -1048,7 +1048,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="944178000" />
+    <option name="totallyTimeSpent" value="944468000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1073,10 +1073,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5105008" weight="0.299389" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48707592" visible="true" weight="0.37881875" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.48707592" visible="true" weight="0.56313646" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20394036" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20394036" />
       <window_info anchor="right" id="Database" order="3" weight="0.32875606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24903722" />
