@@ -1,0 +1,1601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../yanxuan-cherry/src/main/java/com/netease/yanxuan/cherry/service/HandleOrderServiceImpl.java" description="newSkuHistoryOutStoreRate.setRate(rate);" line="790" />
+    <bookmark url="file://$PROJECT_DIR$/../yanxuan/yanxuan-cherry/src/main/java/com/netease/yanxuan/cherry/pojo/ipcTc/StorageSchedulingOrderVO.java" description="storehouseSkuMapInfo = storehouseSkuMapInfoMap.get..." line="108" />
+    <bookmark url="file://$PROJECT_DIR$/../yanxuan/yanxuan-dms/dms-route-biz/src/main/java/com/netease/yanxuan/wap/controller/AllocationAgeInfoController.java" description="@ApiImplicitParam(paramType = &quot;query&quot;, name = &quot;all..." line="81" />
+    <bookmark url="file://$PROJECT_DIR$/../yanxuan/yanxuan-dms/dms-route-biz/src/main/java/com/netease/yanxuan/wap/service/impl/AllocationAgeServiceImpl.java" description="}" line="1170" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="" />
+    <ignored path="code.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/code$QuickSort_test.ic" NAME="QuickSort.test Coverage Results" MODIFIED="1561366671459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Algorithm.AlgorithmHomeWork.lesson_1.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Array_121_Best_time_sell_stock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_121_Best_time_sell_stock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array_152_Maximum_product_subarray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_152_Maximum_product_subarray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array_283_Move_zeros.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_283_Move_zeros.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array_123_Best_time_sell_stock_3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_123_Best_time_sell_stock_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array_88_Merge_two_sorted_array.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_88_Merge_two_sorted_array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Remove_Duplicates_from_Sorted_Array_26.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetCode/array/Remove_Duplicates_from_Sorted_Array_26.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RevealCardsInIncreasingOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetCode/array/RevealCardsInIncreasingOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetCode/array/ReverString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortArrayByParity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetCode/array/SortArrayByParity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array_15_ThreeSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_15_ThreeSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="707">
+              <caret line="177" column="28" selection-start-line="177" selection-start-column="28" selection-end-line="177" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Aspect" />
+        <option value="ColdFusion File" />
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>公共</find>
+      <find>约瑟夫</find>
+      <find>rever</find>
+      <find>fail</find>
+      <find>notify</find>
+      <find>背包</find>
+      <find>aop</find>
+      <find>invoca</find>
+      <find>new ThreadPoolExecutor(2, 2, 0L,</find>
+      <find>皇后</find>
+      <find>快速</find>
+      <find>无重复字符的最长子串</find>
+      <find>回文</find>
+      <find>最大子序和</find>
+      <find>连续子数组</find>
+      <find>连续</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/Algorithm/AlgorithmHomeWork/lesson_1/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/SortAlgorithm_10/kuaisu.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/kuaisu.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/kuaisu_new.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/SortAlgorithm_10/kuaisu_new.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_30.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_29.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_31.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_33.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_32.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_34.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_35.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_37.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_36.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_38.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/LinkNode.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/BinTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_39.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_40.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_41.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_42.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_43.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/Offer/class_44.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/a.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/LongestSubstring_3.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_LongestSubstring_3.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_13_Roman_to_Integer.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_12_Integer_to_Roman.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/ThreeSumClosest_16.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/twoSum_1.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_18_FourSum.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_16_ThreeSumClosest.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_1_twoSum.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_15_ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_5_Palindromic_Substring.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_27_Remove_array_element.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_7_Reverse_Integer.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_66_Increase_One.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_31_Permutation.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array88_Merge_two_sorted_array.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_88_Merge_two_sorted_array.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_283_Move_zeros.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_35_binary_search_insert_position.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_31_The_Next_Permutation.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_53_Maximum_subarray.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_152_Maximum_product_subarray.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_121_Best_time_sell_stock.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_123_Best_time_sell_stock_3.java" />
+        <option value="$PROJECT_DIR$/src/leetCode/array/Array_122_Best_time_sell_stock_2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="code" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="code" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="y" value="-225" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>ArquillianJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Cucumber Java</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>FlexUnit inspections</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>KDocMissingDocumentation</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultCfmlFileTemplate" value="ColdFusion File" />
+    <property name="SearchEverywhereHistoryKey" value="partition2&#9;PSI&#9;JAVA://Algorithm.kuaisu#partition2&#10;live te&#9;ACTION&#9;InsertLiveTemplate&#10;Template&#9;ACTION&#9;InsertLiveTemplate&#10;sizeof&#9;null&#9;null&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;FileChannel&#9;PSI&#9;JAVA://java.nio.channels.FileChannel&#10;Channel&#9;PSI&#9;JAVA://java.nio.channels.Channel&#10;bytebuffer&#9;PSI&#9;JAVA://java.nio.ByteBuffer&#10;byte&#9;PSI&#9;JAVA://java.lang.Byte&#10;Bytebuff&#9;null&#9;null&#10;Unsaf&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;CountDownLatch&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;Reenlock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Defafac&#9;PSI&#9;JAVA://com.sun.tools.corba.se.idl.toJavaPortable.DefaultFactory&#10;Sorted&#9;PSI&#9;JAVA://java.util.SortedMap&#10;ThreadPool&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;ThreadPoolExecu&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;defaulthread&#9;PSI&#9;JAVA://java.util.concurrent.Executors.DefaultThreadFactory&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;ExecutorService&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;ThreadLOca&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java&#10;HashMap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;HashEntry&#9;PSI&#9;JAVA://com.sun.tools.javac.util.UnsharedNameTable.HashEntry&#10;Concurhash&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Sem&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java&#10;LockSupport&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/LockSupport.java&#10;Unsafe&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class&#10;Lock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java&#10;AQS&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java&#10;AtomicINte&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Atomicreference&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicStampedReference&#10;Atomiclong&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicLong.java&#10;Atomicreferen&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;Long&#9;PSI&#9;JAVA://java.lang.Long&#10;Reenreadw&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;LOcksuppo&#9;PSI&#9;JAVA://java.util.concurrent.locks.LockSupport&#10;Aos&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractOwnableSynchronizer&#10;toArray&#9;PSI&#9;JAVA://java.util.stream.Nodes.ToArrayTask&#10;Arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Collection&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/Collection.java&#10;copyonwrite&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArrayList&#10;Synclist&#9;PSI&#9;JAVA://java.util.Collections.SynchronizedList&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;map&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/Map.java&#10;Map&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;Itera&#9;PSI&#9;JAVA://java.lang.Iterable&#10;Concu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Object&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;hashset&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/LinkedHashSet.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/src/ThinkInJava/Topic_14" />
+      <recent name="$PROJECT_DIR$/src/lesson/AlgorithmTest/lesson_3" />
+      <recent name="$PROJECT_DIR$/src/lesson/lesson_2" />
+      <recent name="$PROJECT_DIR$/src/lesson/sort" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Algorithm.Offer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/concurrent" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Array_88_Merge_two_sorted_array.test">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Array_16_ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.array.Array_16_ThreeSumClosest" />
+      <module name="code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Array_1_twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.array.Array_1_twoSum" />
+      <module name="code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Array_31_The_Next_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.array.Array_31_The_Next_Permutation" />
+      <module name="code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Array_7_Reverse_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.array.Array_7_Reverse_Integer" />
+      <module name="code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration name="Array_88_Merge_two_sorted_array.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="leetCode.array" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.array.Array_88_Merge_two_sorted_array" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Array_16_ThreeSumClosest" />
+      <item itemvalue="Application.Array_1_twoSum" />
+      <item itemvalue="Application.Array_7_Reverse_Integer" />
+      <item itemvalue="Application.Array_31_The_Next_Permutation" />
+      <item itemvalue="JUnit.Array_88_Merge_two_sorted_array.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Array_88_Merge_two_sorted_array.test" />
+        <item itemvalue="Application.Array_31_The_Next_Permutation" />
+        <item itemvalue="Application.Array_7_Reverse_Integer" />
+        <item itemvalue="Application.Array_1_twoSum" />
+        <item itemvalue="Application.Array_16_ThreeSumClosest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="" />
+      <created>1469971471821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1469971471821</updated>
+      <workItem from="1469971475886" duration="1046000" />
+      <workItem from="1470377650351" duration="39000" />
+      <workItem from="1471396293087" duration="1599000" />
+      <workItem from="1471753455286" duration="603000" />
+      <workItem from="1474203894834" duration="7201000" />
+      <workItem from="1474293279380" duration="1462000" />
+      <workItem from="1474294912955" duration="1242000" />
+      <workItem from="1474296221053" duration="3400000" />
+      <workItem from="1474376927056" duration="2662000" />
+      <workItem from="1474379892210" duration="1638000" />
+      <workItem from="1474386938036" duration="710000" />
+      <workItem from="1474554278978" duration="215000" />
+      <workItem from="1474724127578" duration="1068000" />
+      <workItem from="1475915281506" duration="98000" />
+      <workItem from="1476107064553" duration="35000" />
+      <workItem from="1477536778922" duration="9000" />
+      <workItem from="1478145584867" duration="4235000" />
+      <workItem from="1478151014308" duration="3648000" />
+      <workItem from="1478843470163" duration="3828000" />
+      <workItem from="1478935114627" duration="3867000" />
+      <workItem from="1479048989959" duration="6024000" />
+      <workItem from="1479097717097" duration="5732000" />
+      <workItem from="1479126126197" duration="1791000" />
+      <workItem from="1479304274556" duration="1552000" />
+      <workItem from="1479307663958" duration="3728000" />
+      <workItem from="1479314369601" duration="971000" />
+      <workItem from="1479315510874" duration="320000" />
+      <workItem from="1479373321247" duration="3739000" />
+      <workItem from="1479558407861" duration="27000" />
+      <workItem from="1480164201236" duration="13000" />
+      <workItem from="1480237085179" duration="8357000" />
+      <workItem from="1480261313752" duration="3014000" />
+      <workItem from="1480337300398" duration="1794000" />
+      <workItem from="1480346891391" duration="1968000" />
+      <workItem from="1480397726627" duration="383000" />
+      <workItem from="1480421613950" duration="1092000" />
+      <workItem from="1480430684675" duration="2531000" />
+      <workItem from="1480484538529" duration="1503000" />
+      <workItem from="1480511043679" duration="753000" />
+      <workItem from="1480577469587" duration="13999000" />
+      <workItem from="1480598057321" duration="249000" />
+      <workItem from="1480779638158" duration="2526000" />
+      <workItem from="1480837772650" duration="1489000" />
+      <workItem from="1480862724378" duration="2500000" />
+      <workItem from="1480924514955" duration="3829000" />
+      <workItem from="1480944894953" duration="296000" />
+      <workItem from="1480947514939" duration="250000" />
+      <workItem from="1480948928638" duration="32000" />
+      <workItem from="1480995466420" duration="950000" />
+      <workItem from="1481003230534" duration="3872000" />
+      <workItem from="1481019875902" duration="910000" />
+      <workItem from="1481026470650" duration="3780000" />
+      <workItem from="1481036908639" duration="554000" />
+      <workItem from="1481095408402" duration="916000" />
+      <workItem from="1481112444364" duration="1754000" />
+      <workItem from="1481115852139" duration="139000" />
+      <workItem from="1481118473969" duration="483000" />
+      <workItem from="1481163578728" duration="255000" />
+      <workItem from="1481624139593" duration="7823000" />
+      <workItem from="1481644425532" duration="1316000" />
+      <workItem from="1481697151135" duration="1210000" />
+      <workItem from="1481713091035" duration="4569000" />
+      <workItem from="1481776868963" duration="1408000" />
+      <workItem from="1481797972893" duration="62000" />
+      <workItem from="1481798581977" duration="42000" />
+      <workItem from="1483775283783" duration="3350000" />
+      <workItem from="1483856047283" duration="245000" />
+      <workItem from="1484571057607" duration="125000" />
+      <workItem from="1485138960919" duration="2340000" />
+      <workItem from="1485247605973" duration="23000" />
+      <workItem from="1486472402818" duration="747000" />
+      <workItem from="1486955241147" duration="7602000" />
+      <workItem from="1487041693509" duration="5741000" />
+      <workItem from="1487139371957" duration="21000" />
+      <workItem from="1487390015874" duration="13720000" />
+      <workItem from="1487422246210" duration="8997000" />
+      <workItem from="1487471528129" duration="4782000" />
+      <workItem from="1487490327843" duration="14081000" />
+      <workItem from="1487565635861" duration="2674000" />
+      <workItem from="1487575931348" duration="20942000" />
+      <workItem from="1487681456558" duration="2949000" />
+      <workItem from="1487727888742" duration="16963000" />
+      <workItem from="1487830895202" duration="1233000" />
+      <workItem from="1487833101226" duration="30000" />
+      <workItem from="1487913957978" duration="5192000" />
+      <workItem from="1487925458891" duration="5995000" />
+      <workItem from="1487934792110" duration="723000" />
+      <workItem from="1488000749083" duration="532000" />
+      <workItem from="1488003598877" duration="10414000" />
+      <workItem from="1488170513238" duration="49000" />
+      <workItem from="1488172947002" duration="1978000" />
+      <workItem from="1488179712953" duration="4318000" />
+      <workItem from="1488207393405" duration="668000" />
+      <workItem from="1488275872510" duration="5993000" />
+      <workItem from="1488349242641" duration="1474000" />
+      <workItem from="1488359231029" duration="56000" />
+      <workItem from="1488363164117" duration="2826000" />
+      <workItem from="1488382480853" duration="327000" />
+      <workItem from="1488456987169" duration="3518000" />
+      <workItem from="1488506859053" duration="3372000" />
+      <workItem from="1488531542027" duration="3065000" />
+      <workItem from="1488618401227" duration="987000" />
+      <workItem from="1488624616882" duration="1334000" />
+      <workItem from="1488629398904" duration="3291000" />
+      <workItem from="1488691018408" duration="802000" />
+      <workItem from="1488692161269" duration="3000" />
+      <workItem from="1488693281092" duration="8669000" />
+      <workItem from="1488722003252" duration="1589000" />
+      <workItem from="1488768386362" duration="8212000" />
+      <workItem from="1488786834598" duration="4996000" />
+      <workItem from="1488881675740" duration="7926000" />
+      <workItem from="1488893684539" duration="643000" />
+      <workItem from="1488898101051" duration="9509000" />
+      <workItem from="1488960361845" duration="1087000" />
+      <workItem from="1488971538537" duration="1680000" />
+      <workItem from="1488982918233" duration="663000" />
+      <workItem from="1489071483477" duration="20000" />
+      <workItem from="1489075025958" duration="2532000" />
+      <workItem from="1489143525944" duration="113000" />
+      <workItem from="1489222976509" duration="9459000" />
+      <workItem from="1489302938259" duration="8405000" />
+      <workItem from="1489498526226" duration="2546000" />
+      <workItem from="1489505521916" duration="11000" />
+      <workItem from="1489595539638" duration="660000" />
+      <workItem from="1489641387425" duration="4847000" />
+      <workItem from="1489675227421" duration="3864000" />
+      <workItem from="1489748544944" duration="5237000" />
+      <workItem from="1489764483187" duration="6443000" />
+      <workItem from="1489818413263" duration="1790000" />
+      <workItem from="1489828561356" duration="1091000" />
+      <workItem from="1489897620890" duration="567000" />
+      <workItem from="1489920755775" duration="4326000" />
+      <workItem from="1490065828044" duration="8012000" />
+      <workItem from="1490162996508" duration="247000" />
+      <workItem from="1490239083066" duration="6608000" />
+      <workItem from="1490334816990" duration="15183000" />
+      <workItem from="1490421390307" duration="19997000" />
+      <workItem from="1490536360236" duration="568000" />
+      <workItem from="1490543367023" duration="538000" />
+      <workItem from="1490597944672" duration="1017000" />
+      <workItem from="1490626140373" duration="8692000" />
+      <workItem from="1490948426567" duration="2736000" />
+      <workItem from="1490959175310" duration="2031000" />
+      <workItem from="1490965759323" duration="161000" />
+      <workItem from="1491044299750" duration="8315000" />
+      <workItem from="1491283991505" duration="139000" />
+      <workItem from="1491402665458" duration="1955000" />
+      <workItem from="1491466320827" duration="686000" />
+      <workItem from="1491472956969" duration="2183000" />
+      <workItem from="1491540716806" duration="1683000" />
+      <workItem from="1491562903849" duration="9701000" />
+      <workItem from="1491722393978" duration="37776000" />
+      <workItem from="1492335760050" duration="117000" />
+      <workItem from="1492944274002" duration="3261000" />
+      <workItem from="1493197710124" duration="4705000" />
+      <workItem from="1493538265605" duration="2736000" />
+      <workItem from="1493651063549" duration="949000" />
+      <workItem from="1493901554962" duration="851000" />
+      <workItem from="1494158596006" duration="3104000" />
+      <workItem from="1494249560903" duration="801000" />
+      <workItem from="1494425532515" duration="316000" />
+      <workItem from="1494504800324" duration="323000" />
+      <workItem from="1494911333321" duration="1417000" />
+      <workItem from="1494939883775" duration="429000" />
+      <workItem from="1495086604468" duration="1252000" />
+      <workItem from="1499865279620" duration="882000" />
+      <workItem from="1499910890162" duration="851000" />
+      <workItem from="1500649363627" duration="664000" />
+      <workItem from="1502379529310" duration="3370000" />
+      <workItem from="1502385528176" duration="79000" />
+      <workItem from="1502415810028" duration="1042000" />
+      <workItem from="1502420610706" duration="595000" />
+      <workItem from="1502545211166" duration="8641000" />
+      <workItem from="1502594603268" duration="13003000" />
+      <workItem from="1502676603406" duration="24000" />
+      <workItem from="1503402212163" duration="7460000" />
+      <workItem from="1503460450563" duration="3271000" />
+      <workItem from="1503560386697" duration="279000" />
+      <workItem from="1503580245138" duration="271000" />
+      <workItem from="1503626092892" duration="1027000" />
+      <workItem from="1503663426055" duration="2481000" />
+      <workItem from="1503734762245" duration="3433000" />
+      <workItem from="1503884240458" duration="624000" />
+      <workItem from="1503891344423" duration="1246000" />
+      <workItem from="1504012357238" duration="3038000" />
+      <workItem from="1504335425425" duration="11032000" />
+      <workItem from="1505302231598" duration="3765000" />
+      <workItem from="1505615623540" duration="1725000" />
+      <workItem from="1506159250144" duration="54000" />
+      <workItem from="1506393380854" duration="2168000" />
+      <workItem from="1508143476443" duration="715000" />
+      <workItem from="1508243137042" duration="6417000" />
+      <workItem from="1508772973272" duration="191000" />
+      <workItem from="1509274593226" duration="2302000" />
+      <workItem from="1509698270019" duration="2715000" />
+      <workItem from="1509759986311" duration="534000" />
+      <workItem from="1509814561760" duration="559000" />
+      <workItem from="1509931834969" duration="916000" />
+      <workItem from="1510213269461" duration="1528000" />
+      <workItem from="1510227131182" duration="3231000" />
+      <workItem from="1510242772417" duration="204000" />
+      <workItem from="1510906925725" duration="2515000" />
+      <workItem from="1511019513440" duration="523000" />
+      <workItem from="1515672260023" duration="3123000" />
+      <workItem from="1515721040771" duration="4777000" />
+      <workItem from="1515831164009" duration="4993000" />
+      <workItem from="1515954947457" duration="366000" />
+      <workItem from="1526724320678" duration="160000" />
+      <workItem from="1530863591543" duration="304000" />
+      <workItem from="1530953463806" duration="610000" />
+      <workItem from="1531035922239" duration="347000" />
+      <workItem from="1536648503337" duration="1397000" />
+      <workItem from="1536669139330" duration="294000" />
+      <workItem from="1540622397560" duration="1164000" />
+      <workItem from="1540777167803" duration="630000" />
+      <workItem from="1547109758142" duration="6909000" />
+      <workItem from="1547981780898" duration="9466000" />
+      <workItem from="1550471215292" duration="16501000" />
+      <workItem from="1551449257431" duration="20018000" />
+      <workItem from="1552372666542" duration="3688000" />
+      <workItem from="1552630367426" duration="4308000" />
+      <workItem from="1553601357623" duration="3312000" />
+      <workItem from="1554342692104" duration="691000" />
+      <workItem from="1554688233712" duration="1826000" />
+      <workItem from="1560826417410" duration="49751000" />
+      <workItem from="1562047292477" duration="675000" />
+      <workItem from="1562412984659" duration="7000000" />
+      <workItem from="1562810607018" duration="9546000" />
+      <workItem from="1563155577026" duration="2363000" />
+      <workItem from="1563240981401" duration="8706000" />
+      <workItem from="1563761337465" duration="7180000" />
+      <workItem from="1564469163963" duration="13135000" />
+      <workItem from="1565574977358" duration="1953000" />
+      <workItem from="1565660913294" duration="562000" />
+      <workItem from="1565680929691" duration="5636000" />
+      <workItem from="1565749450554" duration="597000" />
+      <workItem from="1565834881777" duration="596000" />
+      <workItem from="1566180827489" duration="3239000" />
+      <workItem from="1566354604507" duration="592000" />
+      <workItem from="1566357492984" duration="2191000" />
+      <workItem from="1566367257249" duration="1482000" />
+      <workItem from="1566526100706" duration="7816000" />
+      <workItem from="1566624833488" duration="9058000" />
+      <workItem from="1567173062077" duration="6204000" />
+      <workItem from="1567948950442" duration="583000" />
+      <workItem from="1568080162089" duration="5761000" />
+      <workItem from="1568174813493" duration="2476000" />
+      <workItem from="1568525649734" duration="1826000" />
+      <workItem from="1568793854604" duration="2144000" />
+      <workItem from="1568998152071" duration="2505000" />
+      <workItem from="1569206205924" duration="3631000" />
+      <workItem from="1569723372138" duration="20588000" />
+      <workItem from="1570501045643" duration="184000" />
+      <workItem from="1570700755312" duration="448000" />
+      <workItem from="1571043561428" duration="8161000" />
+      <workItem from="1571137014891" duration="6633000" />
+      <workItem from="1571989815669" duration="17782000" />
+      <workItem from="1572849982620" duration="2158000" />
+      <workItem from="1573307515871" duration="79000" />
+      <workItem from="1573369441111" duration="770000" />
+      <workItem from="1573612039236" duration="728000" />
+      <workItem from="1574044376370" duration="555000" />
+      <workItem from="1574301065927" duration="785000" />
+      <workItem from="1574398339693" duration="834000" />
+      <workItem from="1576115595966" duration="528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="class_39_test - 2019.08.23 at 16h 39m 31s.xml">
+      <configuration name="class_39.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="class_39_test - 2019.08.23 at 16h 41m 34s.xml">
+      <configuration name="class_39.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="class_39_test2 - 2019.09.02 at 11h 13m 56s.xml">
+      <configuration name="class_39.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="class_39_test2 - 2019.09.02 at 11h 15m 22s.xml">
+      <configuration name="class_39.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array88_Merge_two_sorted_array_test - 2019.10.25 at 11h 32m 53s.xml">
+      <configuration name="Array88_Merge_two_sorted_array.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array88_Merge_two_sorted_array_test - 2019.10.25 at 11h 34m 27s.xml">
+      <configuration name="Array88_Merge_two_sorted_array.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array88_Merge_two_sorted_array_test - 2019.10.25 at 11h 34m 56s.xml">
+      <configuration name="Array88_Merge_two_sorted_array.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array88_Merge_two_sorted_array_test - 2019.10.25 at 12h 01m 39s.xml">
+      <configuration name="Array88_Merge_two_sorted_array.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array88_Merge_two_sorted_array_test - 2019.10.25 at 12h 02m 02s.xml">
+      <configuration name="Array88_Merge_two_sorted_array.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Array88_Merge_two_sorted_array_test - 2019.10.25 at 13h 48m 28s.xml">
+      <configuration name="Array88_Merge_two_sorted_array.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="943666000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="-225" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="PlantUML" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32670453" />
+      <window_info id="Palette&#9;" order="2" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51857835" side_tool="true" weight="0.45584047" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.33360258" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5105008" weight="0.299389" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48707592" visible="true" weight="0.21283096" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20394036" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32875606" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24903722" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48142165" weight="0.3839104" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.48303714" weight="0.33095723" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Analyze Dataflow to" order="8" weight="0.32905984" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4948652" weight="0.31196582" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Dynamic Properties" order="4" />
+      <window_info anchor="bottom" id="Analyze Dataflow from" order="8" weight="0.32905984" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.31825525" />
+      <window_info anchor="right" id="Properties" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Algorithm/niuKe/JD/Main2.java</url>
+          <properties class="Algorithm.niuKe.JD.Main2" />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaInetProgram/topic9Socket/SingleFileHttpServer.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/array/FlippingAnImage.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/AlgorithmHomeWork/lesson_1/QuickSort.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/SortAlgorithm_10/kuaisu_new.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/Offer/class_35.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="125" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/LinkNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/Class_19_MirrorTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="98" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23541">
+          <caret line="1181" column="22" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/BinTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="72" column="30" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/class_40.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/class_41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/class_43.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/class_45.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_1_twoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_12_Integer_to_Roman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/class_37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/class_44.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/class_39.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/class_42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/class_51.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/class_35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49203">
+          <caret line="2420" column="20" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_7_Reverse_Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_13_Roman_to_Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_5_Palindromic_Substring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_3_LongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/FlippingAnImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_27_Remove_array_element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_35_binary_search_insert_position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_16_ThreeSumClosest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_11_ContainerWithMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_18_FourSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_31_The_Next_Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaInetProgram/topic9Socket/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_66_Increase_One.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/Offer/class_31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultsIS.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/ThreadPoolCommitDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/floyd－output1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dijkstra－output2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serialize.obj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_122_Best_time_sell_stock_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_26_remove_duplicates_from_sorted_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_53_Maximum_subarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_88_Merge_two_sorted_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_121_Best_time_sell_stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_123_Best_time_sell_stock_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_152_Maximum_product_subarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Remove_Duplicates_from_Sorted_Array_26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/RevealCardsInIncreasingOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/ReverString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/SortArrayByParity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_15_ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="177" column="28" selection-start-line="177" selection-start-column="28" selection-end-line="177" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetCode/array/Array_283_Move_zeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>JDK1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>code</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
