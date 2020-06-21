@@ -1,11 +1,12 @@
 package leetCode.hot100;
 
-import java.util.ArrayList;
-import java.util.List;
-
+import java.util.*;
 /**
  * Created by wangliang01 on 2020/6/17 using IDEA.
- * 给定一个 没有重复 数字的序列，返回其所有可能的全排列。
+ *
+ * 没有重复字符的全排列：
+ *
+ * 给定一个 [没有重复] 数字的序列，返回其所有可能的全排列。
  *
  * 示例:
  *
@@ -24,7 +25,7 @@ import java.util.List;
  * 链接：https://leetcode-cn.com/problems/permutations
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class hot_46_permutations {
+public class BackTrack_46_permutations {
     private List<List<Integer>> res = new ArrayList<>();
     public List<List<Integer>> permute(int[] nums) {
         backTrack(nums, new ArrayList<>());
@@ -33,6 +34,14 @@ public class hot_46_permutations {
 
     private void backTrack(int[] nums, List<Integer> curPath) {
         if(curPath.size() == nums.length) {
+            /**
+             * TODO
+             * 在回溯中，当深度遍历到最底层，找到符合条件path的解加入到返回最终结果集的时候,
+             * 一定重新构造一个新的path,不要直接把上层函数传进来的path引用作为正确结果直接返回,
+             * 因为当本层函数执行结束回溯至上层调用函数的话，他的[递归后置事件-撤销选择]会对path数据进行回退,
+             * 一直回退到最顶层函数，把path回退成空,
+             * 导致打印出来时发现符合条件的path为空
+             */
             List<Integer> list = new ArrayList<>(curPath);
             res.add(list);
         }

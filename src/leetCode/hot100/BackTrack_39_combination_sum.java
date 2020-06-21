@@ -6,6 +6,8 @@ import java.util.List;
 /**
  * Created by wangliang01 on 2020/6/17 using IDEA.
  *
+ * 找出所有总和:
+ *
  * 给定一个无重复元素的数组 candidates 和一个目标数 target ，找出 candidates 中所有可以使数字和为 target 的组合。
  *
  * candidates 中的数字可以无限制重复被选取。
@@ -36,7 +38,7 @@ import java.util.List;
  * 链接：https://leetcode-cn.com/problems/combination-sum
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class hot_39_combination_sum {
+public class BackTrack_39_combination_sum {
     private List<List<Integer>> res = new ArrayList<>();
     private int[] nums;
     private int target;
@@ -59,7 +61,8 @@ public class hot_39_combination_sum {
             curPath.add(nums[i]);
             /**
              * TODO
-             * 错误写法
+             * 当前数字是可以重复用的，那么就把当前数字的下标传给递归函数,递归喊出从该数字、以及该数字往后找符合条件的解即可
+             * 错误写法，这种会导致出现重复解，而不是一个解中可以有重复数字,比如例子中，返回的一个解会是[2,3,3]，却还有一个[3,2,3]
              * backTrack(curPath, curSum + nums[i], curIndex);
              */
             backTrack(curPath, curSum + nums[i], i);

@@ -1,4 +1,4 @@
-package leetCode.dynamic_programming;
+package leetCode.DP_dynamic_programming;
 
 /**
  * Created by wangliang01 on 2019/12/12 using IDEA.
@@ -27,6 +27,6 @@ package leetCode.dynamic_programming;
  * 2.  1 阶 + 2 阶
  * 3.  2 阶 + 1 阶
  */
-public class climbing_stairs_70 {
+public class Dp_70_climbing_stairs {
 
 }

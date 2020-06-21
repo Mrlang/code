@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/concurrent/SemaphoreTest/SemaphoreTestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/hot100/hot_17_phone_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/hot100/hot_39_combination_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/hot100/hot_46_permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/stack/stack_84_largest_rectangle_in_histogram.java" afterDir="false" />
+    <list default="true" id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="add: [回溯 backTrack] 1">
+      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_300_longest_increasing_subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_416_partition_equal_subset_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_509_fei_bo_na_qi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_53_maxsum_subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_coin_change1_322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_coin_change2_518.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_niuKe_01package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/hot100/BackTrack_08_permutations_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/hot100/BackTrack_37_sudoku_solver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Offer/readMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/A_Intre.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java8/lambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8/lambdaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaInetProgram/topic9Socket/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/code.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThinkInJava/Topic_5/A_Intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/dynamic_programming/1readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/1readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/dynamic_programming/climbing_stairs_70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_70_climbing_stairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/hot100/hot_17_phone_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/hot100/BackTrack_17_phone_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/hot100/hot_39_combination_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/hot100/BackTrack_39_combination_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/hot100/hot_46_permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/hot100/BackTrack_46_permutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/code$QuickSort_test.ic" NAME="QuickSort.test Coverage Results" MODIFIED="1561366671459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -106,6 +112,9 @@
         <option name="workOffline" value="true" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1af9PshBXWsev7HgKfG8Xyi7N6S" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -237,7 +246,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -255,7 +264,7 @@
       <recent name="$PROJECT_DIR$/src/lesson/sort" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.stack_84_largest_rectangle_in_histogram.test">
+  <component name="RunManager" selected="JUnit.Dp_416_partition_equal_subset_sum.test">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -305,48 +314,6 @@
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="Demo1_waitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.crossPrintNumber.Demo1_waitNotify" />
-      <module name="code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="concurrent.crossPrintNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo2_waitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.crossPrintNumber.Demo2_waitNotify" />
-      <module name="code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="concurrent.crossPrintNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo_LookSupport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.crossPrintNumber.Demo_LookSupport" />
-      <module name="code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="concurrent.crossPrintNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -391,6 +358,57 @@
       <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2" />
+    </configuration>
+    <configuration name="BackTrack_08_permutations_2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.hot100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetCode.hot100" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.hot100.BackTrack_08_permutations_2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dp_416_partition_equal_subset_sum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.DP_dynamic_programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetCode.DP_dynamic_programming" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.DP_dynamic_programming.Dp_416_partition_equal_subset_sum" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dp_coin_change1_322.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.DP_dynamic_programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetCode.DP_dynamic_programming" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.DP_dynamic_programming.Dp_coin_change1_322" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SemaphoreTestDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="code" />
@@ -498,19 +516,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Demo_LookSupport" />
-      <item itemvalue="Application.Demo1_waitNotify" />
-      <item itemvalue="Application.Demo2_waitNotify" />
       <item itemvalue="JUnit.SemaphoreTestDemo.test" />
       <item itemvalue="JUnit.stack_84_largest_rectangle_in_histogram.test" />
+      <item itemvalue="JUnit.BackTrack_08_permutations_2.test" />
+      <item itemvalue="JUnit.Dp_416_partition_equal_subset_sum.test" />
+      <item itemvalue="JUnit.Dp_coin_change1_322.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Dp_416_partition_equal_subset_sum.test" />
+        <item itemvalue="JUnit.Dp_coin_change1_322.test" />
+        <item itemvalue="JUnit.BackTrack_08_permutations_2.test" />
         <item itemvalue="JUnit.stack_84_largest_rectangle_in_histogram.test" />
         <item itemvalue="JUnit.SemaphoreTestDemo.test" />
-        <item itemvalue="Application.Demo2_waitNotify" />
-        <item itemvalue="Application.Demo1_waitNotify" />
-        <item itemvalue="Application.Demo_LookSupport" />
       </list>
     </recent_temporary>
   </component>
@@ -824,7 +842,10 @@
       <workItem from="1592239664253" duration="932000" />
       <workItem from="1592273642132" duration="2632000" />
       <workItem from="1592364762375" duration="131000" />
-      <workItem from="1592409403555" duration="2714000" />
+      <workItem from="1592409403555" duration="3283000" />
+      <workItem from="1592446844606" duration="646000" />
+      <workItem from="1592461945767" duration="7985000" />
+      <workItem from="1592533007348" duration="24356000" />
     </task>
     <task id="LOCAL-00001" summary="add: zk分布式锁、并发打印自然数">
       <created>1581931051727</created>
@@ -833,17 +854,15 @@
       <option name="project" value="LOCAL" />
       <updated>1581931051727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add: [回溯 backTrack] 1">
+      <created>1592412918458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592412918458</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -858,9 +877,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add: zk分布式锁、并发打印自然数" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: zk分布式锁、并发打印自然数" />
+    <MESSAGE value="add: [回溯 backTrack] 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: [回溯 backTrack] 1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1360" y="-20" key="#Notifications" timestamp="1592446664809">
+      <screen x="-1920" y="-225" width="1920" height="1080" />
+    </state>
+    <state x="-1360" y="-20" key="#Notifications/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592446664809" />
     <state x="-1147" y="31" key="#com.intellij.ide.util.MemberChooser" timestamp="1587543099339">
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
@@ -869,51 +893,72 @@
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
     <state x="-1364" y="-84" key="CommitChangelistDialog2/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592412917543" />
-    <state width="1878" height="420" key="GridCell.Tab.0.bottom" timestamp="1592062602496">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1238" height="244" key="GridCell.Tab.0.bottom" timestamp="1592756884530">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1878" height="420" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592038245949" />
-    <state width="1238" height="293" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1587563571122" />
+    <state width="1238" height="244" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592756884530" />
     <state width="1878" height="420" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1592062602496" />
-    <state width="1878" height="420" key="GridCell.Tab.0.center" timestamp="1592062602464">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1238" height="244" key="GridCell.Tab.0.center" timestamp="1592756884528">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1878" height="420" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592038245946" />
-    <state width="1238" height="293" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1587563571119" />
+    <state width="1238" height="244" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592756884528" />
     <state width="1878" height="420" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1592062602463" />
-    <state width="1878" height="420" key="GridCell.Tab.0.left" timestamp="1592062602451">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1238" height="244" key="GridCell.Tab.0.left" timestamp="1592756884527">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1878" height="420" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592038245944" />
-    <state width="1238" height="293" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1587563571118" />
+    <state width="1238" height="244" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592756884527" />
     <state width="1878" height="420" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1592062602451" />
-    <state width="1878" height="420" key="GridCell.Tab.0.right" timestamp="1592062602469">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="1238" height="244" key="GridCell.Tab.0.right" timestamp="1592756884529">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1878" height="420" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592038245948" />
-    <state width="1238" height="293" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1587563571121" />
+    <state width="1238" height="244" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592756884529" />
     <state width="1878" height="420" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1592062602469" />
-    <state x="-1365" y="-22" width="828" height="708" key="StructurePopup" timestamp="1592330051289">
-      <screen x="-1920" y="-202" width="1920" height="1057" />
+    <state width="1238" height="243" key="GridCell.Tab.1.bottom" timestamp="1592502878912">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592329891747" />
-    <state x="370" y="150" width="552" height="524" key="StructurePopup/0.0.1280.800@0.0.1280.800" timestamp="1592239809897" />
-    <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.23.1280.777/-1920.-202.1920.1057@-1920.-202.1920.1057" timestamp="1592330051289" />
-    <state width="864" height="601" key="SwitcherDM" timestamp="1592330054687">
+    <state width="1238" height="243" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592502878912" />
+    <state width="1238" height="243" key="GridCell.Tab.1.center" timestamp="1592502878906">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="243" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1592502878906" />
+    <state width="1238" height="243" key="GridCell.Tab.1.left" timestamp="1592502878904">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="243" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1592502878904" />
+    <state width="1238" height="243" key="GridCell.Tab.1.right" timestamp="1592502878909">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="243" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1592502878909" />
+    <state x="-1920" y="-225" width="1920" height="1080" key="SettingsEditor" timestamp="1592447112346">
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
-    <state width="864" height="601" key="SwitcherDM/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592330054687" />
-    <state width="576" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1587563533999" />
-    <state x="317" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1592273613370">
+    <state x="-1920" y="-225" width="1920" height="1080" key="SettingsEditor/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592447112346" />
+    <state x="370" y="150" width="552" height="524" key="StructurePopup" timestamp="1592501148553">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592329891747" />
+    <state x="370" y="150" width="552" height="524" key="StructurePopup/0.0.1280.800@0.0.1280.800" timestamp="1592501148553" />
+    <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.23.1280.777/-1920.-202.1920.1057@-1920.-202.1920.1057" timestamp="1592330051289" />
+    <state width="576" height="445" key="SwitcherDM" timestamp="1592762297769">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="864" height="601" key="SwitcherDM/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592654297658" />
+    <state width="576" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1592762297769" />
+    <state x="-1444" y="88" key="com.intellij.ide.util.TipDialog" timestamp="1592533118957">
+      <screen x="-1920" y="-225" width="1920" height="1080" />
+    </state>
+    <state x="-1444" y="88" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592533118957" />
     <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1592273613370" />
     <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1587565631018" />
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1592239914500">
+    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1592756534490">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="-1295" y="16" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592058358758" />
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1592239914500" />
+    <state x="-1295" y="16" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592652737232" />
+    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1592756534490" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
