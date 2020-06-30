@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="add: [回溯 backTrack] 1">
-      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_300_longest_increasing_subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_416_partition_equal_subset_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_509_fei_bo_na_qi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_53_maxsum_subarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_coin_change1_322.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_coin_change2_518.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_niuKe_01package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/hot100/BackTrack_08_permutations_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/hot100/BackTrack_37_sudoku_solver.java" afterDir="false" />
+    <list default="true" id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="add: [动态规划Dp_cache] 1">
+      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_1143_longest_common_subsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetCode/dynamic_programming/1readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/1readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetCode/dynamic_programming/climbing_stairs_70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_70_climbing_stairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetCode/hot100/hot_17_phone_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/hot100/BackTrack_17_phone_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetCode/hot100/hot_39_combination_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/hot100/BackTrack_39_combination_sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetCode/hot100/hot_46_permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/hot100/BackTrack_46_permutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,6 +218,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultCfmlFileTemplate" value="ColdFusion File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="partition2&#9;PSI&#9;JAVA://Algorithm.kuaisu#partition2&#10;live te&#9;ACTION&#9;InsertLiveTemplate&#10;Template&#9;ACTION&#9;InsertLiveTemplate&#10;sizeof&#9;null&#9;null&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;FileChannel&#9;PSI&#9;JAVA://java.nio.channels.FileChannel&#10;Channel&#9;PSI&#9;JAVA://java.nio.channels.Channel&#10;bytebuffer&#9;PSI&#9;JAVA://java.nio.ByteBuffer&#10;byte&#9;PSI&#9;JAVA://java.lang.Byte&#10;Bytebuff&#9;null&#9;null&#10;Unsaf&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;CountDownLatch&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;Reenlock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Defafac&#9;PSI&#9;JAVA://com.sun.tools.corba.se.idl.toJavaPortable.DefaultFactory&#10;Sorted&#9;PSI&#9;JAVA://java.util.SortedMap&#10;ThreadPool&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;ThreadPoolExecu&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;defaulthread&#9;PSI&#9;JAVA://java.util.concurrent.Executors.DefaultThreadFactory&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;ExecutorService&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;ThreadLOca&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java&#10;HashMap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;HashEntry&#9;PSI&#9;JAVA://com.sun.tools.javac.util.UnsharedNameTable.HashEntry&#10;Concurhash&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Sem&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/Semaphore.java&#10;LockSupport&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/LockSupport.java&#10;Unsafe&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class&#10;Lock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java&#10;AQS&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java&#10;AtomicINte&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Atomicreference&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicStampedReference&#10;Atomiclong&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicLong.java&#10;Atomicreferen&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;Long&#9;PSI&#9;JAVA://java.lang.Long&#10;Reenreadw&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;LOcksuppo&#9;PSI&#9;JAVA://java.util.concurrent.locks.LockSupport&#10;Aos&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractOwnableSynchronizer&#10;toArray&#9;PSI&#9;JAVA://java.util.stream.Nodes.ToArrayTask&#10;Arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Collection&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/Collection.java&#10;copyonwrite&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArrayList&#10;Synclist&#9;PSI&#9;JAVA://java.util.Collections.SynchronizedList&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;map&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/Map.java&#10;Map&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;Itera&#9;PSI&#9;JAVA://java.lang.Iterable&#10;Concu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Object&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;hashset&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/util/LinkedHashSet.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -845,7 +833,11 @@
       <workItem from="1592409403555" duration="3283000" />
       <workItem from="1592446844606" duration="646000" />
       <workItem from="1592461945767" duration="7985000" />
-      <workItem from="1592533007348" duration="24356000" />
+      <workItem from="1592533007348" duration="25133000" />
+      <workItem from="1592795807981" duration="1507000" />
+      <workItem from="1592824834954" duration="525000" />
+      <workItem from="1592878134475" duration="152000" />
+      <workItem from="1593450212366" duration="924000" />
     </task>
     <task id="LOCAL-00001" summary="add: zk分布式锁、并发打印自然数">
       <created>1581931051727</created>
@@ -861,7 +853,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592412918458</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add: [动态规划Dp_cache] 1">
+      <created>1592762330267</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592762330267</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -878,7 +877,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add: zk分布式锁、并发打印自然数" />
     <MESSAGE value="add: [回溯 backTrack] 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: [回溯 backTrack] 1" />
+    <MESSAGE value="add: [动态规划Dp_cache] 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: [动态规划Dp_cache] 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1360" y="-20" key="#Notifications" timestamp="1592446664809">
@@ -889,32 +889,37 @@
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
     <state x="-1147" y="31" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1587543099339" />
-    <state x="-1364" y="-84" key="CommitChangelistDialog2" timestamp="1592412917543">
-      <screen x="-1920" y="-225" width="1920" height="1080" />
+    <state x="206" y="2" key="CommitChangelistDialog2" timestamp="1592762329525">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="-1364" y="-84" key="CommitChangelistDialog2/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592412917543" />
-    <state width="1238" height="244" key="GridCell.Tab.0.bottom" timestamp="1592756884530">
+    <state x="206" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1592762329525" />
+    <state x="127" y="69" key="DiffContextDialog" timestamp="1592762406550">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1878" height="420" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592038245949" />
+    <state x="127" y="69" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1592762406550" />
+    <state width="1238" height="244" key="GridCell.Tab.0.bottom" timestamp="1592795117224">
+      <screen x="-1920" y="-225" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="244" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592795117224" />
     <state width="1238" height="244" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592756884530" />
     <state width="1878" height="420" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1592062602496" />
-    <state width="1238" height="244" key="GridCell.Tab.0.center" timestamp="1592756884528">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="244" key="GridCell.Tab.0.center" timestamp="1592795117218">
+      <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
-    <state width="1878" height="420" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592038245946" />
+    <state width="1238" height="244" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592795117218" />
     <state width="1238" height="244" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592756884528" />
     <state width="1878" height="420" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1592062602463" />
-    <state width="1238" height="244" key="GridCell.Tab.0.left" timestamp="1592756884527">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="244" key="GridCell.Tab.0.left" timestamp="1592795117213">
+      <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
-    <state width="1878" height="420" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592038245944" />
+    <state width="1238" height="244" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592795117213" />
     <state width="1238" height="244" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592756884527" />
     <state width="1878" height="420" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1592062602451" />
-    <state width="1238" height="244" key="GridCell.Tab.0.right" timestamp="1592756884529">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="244" key="GridCell.Tab.0.right" timestamp="1592795117220">
+      <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
-    <state width="1878" height="420" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592038245948" />
+    <state width="1238" height="244" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592795117220" />
     <state width="1238" height="244" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592756884529" />
     <state width="1878" height="420" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1592062602469" />
     <state width="1238" height="243" key="GridCell.Tab.1.bottom" timestamp="1592502878912">
@@ -943,22 +948,26 @@
     <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592329891747" />
     <state x="370" y="150" width="552" height="524" key="StructurePopup/0.0.1280.800@0.0.1280.800" timestamp="1592501148553" />
     <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.23.1280.777/-1920.-202.1920.1057@-1920.-202.1920.1057" timestamp="1592330051289" />
-    <state width="576" height="445" key="SwitcherDM" timestamp="1592762297769">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="864" height="601" key="SwitcherDM/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592654297658" />
-    <state width="576" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1592762297769" />
-    <state x="-1444" y="88" key="com.intellij.ide.util.TipDialog" timestamp="1592533118957">
+    <state width="864" height="601" key="SwitcherDM" timestamp="1592810845839">
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
-    <state x="-1444" y="88" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592533118957" />
+    <state width="864" height="601" key="SwitcherDM/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592810845839" />
+    <state width="576" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1592762297769" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1592762409511">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1592762409511" />
+    <state x="-1444" y="104" key="com.intellij.ide.util.TipDialog" timestamp="1592824975734">
+      <screen x="-1920" y="-225" width="1920" height="1080" />
+    </state>
+    <state x="-1444" y="104" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592824975734" />
     <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1592273613370" />
     <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1587565631018" />
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1592756534490">
+    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1593451020453">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="-1295" y="16" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592652737232" />
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1592756534490" />
+    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1593451020453" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
