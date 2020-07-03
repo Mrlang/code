@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="add: [动态规划Dp_cache] 1">
-      <change afterPath="$PROJECT_DIR$/src/leetCode/DP_dynamic_programming/Dp_1143_longest_common_subsequence.java" afterDir="false" />
+    <list default="true" id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="add: [动态规划Dp_cache] 最长公共子序列">
+      <change afterPath="$PROJECT_DIR$/src/leetCode/DFS_backTrack/BFS_111_min_depth_of_binary_tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/DFS_backTrack/BFS_752_open_the_lock_box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/slide_window/window_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/slide_window/window_76.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/array/Array_3_LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/array/Array_3_LongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetCode/array/Array_3_LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetCode/array/Array_3_LongestSubstring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,7 @@
         <option value="Singleton" />
         <option value="Interface" />
         <option value="Kotlin File" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -252,7 +258,7 @@
       <recent name="$PROJECT_DIR$/src/lesson/sort" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Dp_416_partition_equal_subset_sum.test">
+  <component name="RunManager" selected="JUnit.Array_3_LongestSubstring.test">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -347,16 +353,16 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2" />
     </configuration>
-    <configuration name="BackTrack_08_permutations_2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Array_3_LongestSubstring.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.hot100.*" />
+          <option name="PATTERN" value="leetCode.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetCode.hot100" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.hot100.BackTrack_08_permutations_2" />
+      <option name="PACKAGE_NAME" value="leetCode.array" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.array.Array_3_LongestSubstring" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -398,23 +404,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemaphoreTestDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="concurrent.SemaphoreTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="concurrent.SemaphoreTest" />
-      <option name="MAIN_CLASS_NAME" value="concurrent.SemaphoreTest.SemaphoreTestDemo" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -422,17 +411,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stack_84_largest_rectangle_in_histogram.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="window_76.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.stack.*" />
+          <option name="PATTERN" value="leetCode.slide_window.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetCode.stack" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.stack.stack_84_largest_rectangle_in_histogram" />
+      <option name="PACKAGE_NAME" value="leetCode.slide_window" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.slide_window.window_76" />
       <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="window_76.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.slide_window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetCode.slide_window" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.slide_window.window_76" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -504,19 +510,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SemaphoreTestDemo.test" />
-      <item itemvalue="JUnit.stack_84_largest_rectangle_in_histogram.test" />
-      <item itemvalue="JUnit.BackTrack_08_permutations_2.test" />
       <item itemvalue="JUnit.Dp_416_partition_equal_subset_sum.test" />
       <item itemvalue="JUnit.Dp_coin_change1_322.test" />
+      <item itemvalue="JUnit.window_76.test" />
+      <item itemvalue="JUnit.window_76.test1" />
+      <item itemvalue="JUnit.Array_3_LongestSubstring.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Array_3_LongestSubstring.test" />
+        <item itemvalue="JUnit.window_76.test1" />
+        <item itemvalue="JUnit.window_76.test" />
         <item itemvalue="JUnit.Dp_416_partition_equal_subset_sum.test" />
         <item itemvalue="JUnit.Dp_coin_change1_322.test" />
-        <item itemvalue="JUnit.BackTrack_08_permutations_2.test" />
-        <item itemvalue="JUnit.stack_84_largest_rectangle_in_histogram.test" />
-        <item itemvalue="JUnit.SemaphoreTestDemo.test" />
       </list>
     </recent_temporary>
   </component>
@@ -837,7 +843,9 @@
       <workItem from="1592795807981" duration="1507000" />
       <workItem from="1592824834954" duration="525000" />
       <workItem from="1592878134475" duration="152000" />
-      <workItem from="1593450212366" duration="924000" />
+      <workItem from="1593450212366" duration="1310000" />
+      <workItem from="1593623398870" duration="4106000" />
+      <workItem from="1593703053475" duration="5778000" />
     </task>
     <task id="LOCAL-00001" summary="add: zk分布式锁、并发打印自然数">
       <created>1581931051727</created>
@@ -860,7 +868,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592762330267</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add: [动态规划Dp_cache] 最长公共子序列">
+      <created>1593488601681</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593488601681</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -878,7 +893,8 @@
     <MESSAGE value="add: zk分布式锁、并发打印自然数" />
     <MESSAGE value="add: [回溯 backTrack] 1" />
     <MESSAGE value="add: [动态规划Dp_cache] 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: [动态规划Dp_cache] 1" />
+    <MESSAGE value="add: [动态规划Dp_cache] 最长公共子序列" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: [动态规划Dp_cache] 最长公共子序列" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1360" y="-20" key="#Notifications" timestamp="1592446664809">
@@ -889,73 +905,83 @@
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
     <state x="-1147" y="31" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1587543099339" />
-    <state x="206" y="2" key="CommitChangelistDialog2" timestamp="1592762329525">
+    <state x="536" y="2" key="CommitChangelistDialog2" timestamp="1593797490879">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="-1364" y="-84" key="CommitChangelistDialog2/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592412917543" />
-    <state x="206" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1592762329525" />
+    <state x="206" y="2" key="CommitChangelistDialog2/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593488601148" />
+    <state x="536" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1593797490879" />
     <state x="127" y="69" key="DiffContextDialog" timestamp="1592762406550">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="127" y="69" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1592762406550" />
-    <state width="1238" height="244" key="GridCell.Tab.0.bottom" timestamp="1592795117224">
-      <screen x="-1920" y="-225" width="1920" height="1080" />
+    <state width="1238" height="329" key="GridCell.Tab.0.bottom" timestamp="1593708823186">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="244" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592795117224" />
-    <state width="1238" height="244" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592756884530" />
-    <state width="1878" height="420" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1592062602496" />
-    <state width="1238" height="244" key="GridCell.Tab.0.center" timestamp="1592795117218">
-      <screen x="-1920" y="-225" width="1920" height="1080" />
+    <state width="1238" height="244" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593662180715" />
+    <state width="1238" height="329" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1593708823186" />
+    <state width="1238" height="244" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1593702926360" />
+    <state width="1238" height="329" key="GridCell.Tab.0.center" timestamp="1593708823184">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="244" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592795117218" />
-    <state width="1238" height="244" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592756884528" />
-    <state width="1878" height="420" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1592062602463" />
-    <state width="1238" height="244" key="GridCell.Tab.0.left" timestamp="1592795117213">
-      <screen x="-1920" y="-225" width="1920" height="1080" />
+    <state width="1238" height="244" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593662180707" />
+    <state width="1238" height="329" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1593708823184" />
+    <state width="1238" height="244" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1593702926357" />
+    <state width="1238" height="329" key="GridCell.Tab.0.left" timestamp="1593708823182">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="244" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592795117213" />
-    <state width="1238" height="244" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592756884527" />
-    <state width="1878" height="420" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1592062602451" />
-    <state width="1238" height="244" key="GridCell.Tab.0.right" timestamp="1592795117220">
-      <screen x="-1920" y="-225" width="1920" height="1080" />
+    <state width="1238" height="244" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593662180704" />
+    <state width="1238" height="329" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1593708823182" />
+    <state width="1238" height="244" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1593702926356" />
+    <state width="1238" height="329" key="GridCell.Tab.0.right" timestamp="1593708823185">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="244" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592795117220" />
-    <state width="1238" height="244" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592756884529" />
-    <state width="1878" height="420" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1592062602469" />
-    <state width="1238" height="243" key="GridCell.Tab.1.bottom" timestamp="1592502878912">
+    <state width="1238" height="244" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593662180713" />
+    <state width="1238" height="329" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1593708823185" />
+    <state width="1238" height="244" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1593702926359" />
+    <state width="1238" height="329" key="GridCell.Tab.1.bottom" timestamp="1593708823189">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="243" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592502878912" />
-    <state width="1238" height="243" key="GridCell.Tab.1.center" timestamp="1592502878906">
+    <state width="1238" height="329" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1593708823189" />
+    <state width="1238" height="329" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1593702926082" />
+    <state width="1238" height="329" key="GridCell.Tab.1.center" timestamp="1593708823188">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="243" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1592502878906" />
-    <state width="1238" height="243" key="GridCell.Tab.1.left" timestamp="1592502878904">
+    <state width="1238" height="329" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1593708823188" />
+    <state width="1238" height="329" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1593702926081" />
+    <state width="1238" height="329" key="GridCell.Tab.1.left" timestamp="1593708823187">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="243" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1592502878904" />
-    <state width="1238" height="243" key="GridCell.Tab.1.right" timestamp="1592502878909">
+    <state width="1238" height="329" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1593708823187" />
+    <state width="1238" height="329" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1593702926080" />
+    <state width="1238" height="329" key="GridCell.Tab.1.right" timestamp="1593708823188">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="243" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1592502878909" />
+    <state width="1238" height="329" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1593708823188" />
+    <state width="1238" height="329" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1593702926081" />
     <state x="-1920" y="-225" width="1920" height="1080" key="SettingsEditor" timestamp="1592447112346">
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
     <state x="-1920" y="-225" width="1920" height="1080" key="SettingsEditor/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592447112346" />
-    <state x="370" y="150" width="552" height="524" key="StructurePopup" timestamp="1592501148553">
+    <state x="370" y="150" width="552" height="524" key="StructurePopup" timestamp="1593795843317">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592329891747" />
-    <state x="370" y="150" width="552" height="524" key="StructurePopup/0.0.1280.800@0.0.1280.800" timestamp="1592501148553" />
+    <state x="370" y="150" width="552" height="524" key="StructurePopup/0.0.1280.800@0.0.1280.800" timestamp="1593795843317" />
     <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.23.1280.777/-1920.-202.1920.1057@-1920.-202.1920.1057" timestamp="1592330051289" />
-    <state width="864" height="601" key="SwitcherDM" timestamp="1592810845839">
-      <screen x="-1920" y="-225" width="1920" height="1080" />
-    </state>
-    <state width="864" height="601" key="SwitcherDM/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592810845839" />
-    <state width="576" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1592762297769" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1592762409511">
+    <state width="576" height="445" key="SwitcherDM" timestamp="1593796387954">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="864" height="601" key="SwitcherDM/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592810845839" />
+    <state width="576" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1593796387954" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1593488603344">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593488603344" />
     <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1592762409511" />
     <state x="-1444" y="104" key="com.intellij.ide.util.TipDialog" timestamp="1592824975734">
       <screen x="-1920" y="-225" width="1920" height="1080" />
@@ -963,6 +989,10 @@
     <state x="-1444" y="104" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592824975734" />
     <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1592273613370" />
     <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1587565631018" />
+    <state x="428" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593747026828">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="428" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593747026828" />
     <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1593451020453">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -1001,6 +1031,11 @@
           <url>file://$PROJECT_DIR$/src/Algorithm/Offer/class_35.java</url>
           <line>30</line>
           <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetCode/slide_window/window_76.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
