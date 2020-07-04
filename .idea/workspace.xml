@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="add: [动态规划Dp_cache] 最长公共子序列">
-      <change afterPath="$PROJECT_DIR$/src/leetCode/DFS_backTrack/BFS_111_min_depth_of_binary_tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/DFS_backTrack/BFS_752_open_the_lock_box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/slide_window/window_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/slide_window/window_76.java" afterDir="false" />
+    <list default="true" id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="add: [BFS] 0">
+      <change afterPath="$PROJECT_DIR$/src/leetCode/slide_window/slide_window_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetCode/array/Array_3_LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/array/Array_3_LongestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetCode/array/Array_3_LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetCode/array/Array_3_LongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/slide_window/window_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/slide_window/window_76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/slide_window/slide_window_76.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,38 +53,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>公共</find>
-      <find>约瑟夫</find>
-      <find>rever</find>
-      <find>fail</find>
-      <find>背包</find>
-      <find>aop</find>
-      <find>invoca</find>
-      <find>new ThreadPoolExecutor(2, 2, 0L,</find>
-      <find>皇后</find>
-      <find>快速</find>
-      <find>无重复字符的最长子串</find>
-      <find>回文</find>
-      <find>最大子序和</find>
-      <find>连续子数组</find>
-      <find>连续</find>
-      <find>repairCheckStaterepairCheckState</find>
-      <find>jvm_sandBox.Clock</find>
-      <find>de</find>
-      <find>broken-clock-tinker</find>
-      <find>checkState</find>
-      <find>剑指offer</find>
-      <find>notify</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>notifyAll</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -411,7 +376,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="window_76.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="slide_window_76.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <extension name="coverage">
         <pattern>
@@ -420,7 +385,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetCode.slide_window" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.slide_window.window_76" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.slide_window.slide_window_76" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -428,7 +393,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="window_76.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="slide_window_76.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <extension name="coverage">
         <pattern>
@@ -437,7 +402,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetCode.slide_window" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.slide_window.window_76" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.slide_window.slide_window_76" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -512,15 +477,15 @@
     <list>
       <item itemvalue="JUnit.Dp_416_partition_equal_subset_sum.test" />
       <item itemvalue="JUnit.Dp_coin_change1_322.test" />
-      <item itemvalue="JUnit.window_76.test" />
-      <item itemvalue="JUnit.window_76.test1" />
       <item itemvalue="JUnit.Array_3_LongestSubstring.test" />
+      <item itemvalue="JUnit.slide_window_76.test" />
+      <item itemvalue="JUnit.slide_window_76.test1" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Array_3_LongestSubstring.test" />
-        <item itemvalue="JUnit.window_76.test1" />
-        <item itemvalue="JUnit.window_76.test" />
+        <item itemvalue="JUnit.slide_window_76.test1" />
+        <item itemvalue="JUnit.slide_window_76.test" />
         <item itemvalue="JUnit.Dp_416_partition_equal_subset_sum.test" />
         <item itemvalue="JUnit.Dp_coin_change1_322.test" />
       </list>
@@ -845,7 +810,7 @@
       <workItem from="1592878134475" duration="152000" />
       <workItem from="1593450212366" duration="1310000" />
       <workItem from="1593623398870" duration="4106000" />
-      <workItem from="1593703053475" duration="5778000" />
+      <workItem from="1593703053475" duration="7927000" />
     </task>
     <task id="LOCAL-00001" summary="add: zk分布式锁、并发打印自然数">
       <created>1581931051727</created>
@@ -875,7 +840,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593488601681</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add: [滑动窗口] 0">
+      <created>1593797606062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593797606062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add: [BFS] 0">
+      <created>1593797645125</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593797645125</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -894,7 +873,9 @@
     <MESSAGE value="add: [回溯 backTrack] 1" />
     <MESSAGE value="add: [动态规划Dp_cache] 1" />
     <MESSAGE value="add: [动态规划Dp_cache] 最长公共子序列" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: [动态规划Dp_cache] 最长公共子序列" />
+    <MESSAGE value="add: [滑动窗口] 0" />
+    <MESSAGE value="add: [BFS] 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: [BFS] 0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1360" y="-20" key="#Notifications" timestamp="1592446664809">
@@ -905,12 +886,12 @@
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
     <state x="-1147" y="31" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1587543099339" />
-    <state x="314" y="2" key="CommitChangelistDialog2" timestamp="1593797605195">
+    <state x="314" y="2" key="CommitChangelistDialog2" timestamp="1593797644513">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="-1364" y="-84" key="CommitChangelistDialog2/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592412917543" />
     <state x="206" y="2" key="CommitChangelistDialog2/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593488601148" />
-    <state x="314" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1593797605195" />
+    <state x="314" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1593797644513" />
     <state x="0" y="0" width="1280" height="800" key="DiffContextDialog" timestamp="1593797575408">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -963,26 +944,30 @@
     </state>
     <state width="1238" height="329" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1593797613734" />
     <state width="1238" height="329" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1593702926081" />
+    <state x="463" y="118" key="RollbackChangesDialog" timestamp="1593797981818">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="463" y="118" key="RollbackChangesDialog/0.0.1280.800@0.0.1280.800" timestamp="1593797981818" />
     <state x="-1920" y="-225" width="1920" height="1080" key="SettingsEditor" timestamp="1592447112346">
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
     <state x="-1920" y="-225" width="1920" height="1080" key="SettingsEditor/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592447112346" />
-    <state x="370" y="150" width="552" height="524" key="StructurePopup" timestamp="1593795843317">
+    <state x="370" y="150" width="552" height="524" key="StructurePopup" timestamp="1593835581521">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592329891747" />
-    <state x="370" y="150" width="552" height="524" key="StructurePopup/0.0.1280.800@0.0.1280.800" timestamp="1593795843317" />
+    <state x="370" y="150" width="552" height="524" key="StructurePopup/0.0.1280.800@0.0.1280.800" timestamp="1593835581521" />
     <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.23.1280.777/-1920.-202.1920.1057@-1920.-202.1920.1057" timestamp="1592330051289" />
-    <state width="576" height="445" key="SwitcherDM" timestamp="1593796387954">
+    <state width="576" height="445" key="SwitcherDM" timestamp="1593835619778">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="864" height="601" key="SwitcherDM/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592810845839" />
-    <state width="576" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1593796387954" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1593797608400">
+    <state width="576" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1593835619778" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1593797658606">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593488603344" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1593797608400" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1593797658606" />
     <state x="-1444" y="104" key="com.intellij.ide.util.TipDialog" timestamp="1592824975734">
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
@@ -993,11 +978,15 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="428" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593747026828" />
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1593451020453">
+    <state x="309" y="162" width="661" height="476" key="find.popup" timestamp="1593837987697">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="309" y="162" width="661" height="476" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1593837987697" />
+    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1593835563955">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="-1295" y="16" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592652737232" />
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1593451020453" />
+    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1593835563955" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1033,7 +1022,7 @@
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetCode/slide_window/window_76.java</url>
+          <url>file://$PROJECT_DIR$/src/leetCode/slide_window/slide_window_76.java</url>
           <line>35</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
