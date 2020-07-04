@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="add: [BFS] 0">
-      <change afterPath="$PROJECT_DIR$/src/leetCode/slide_window/slide_window_3.java" afterDir="false" />
+    <list default="true" id="f8d6a7c7-7baa-4ce8-adce-b457fdd3a6cb" name="Default" comment="null">
+      <change afterPath="$PROJECT_DIR$/src/leetCode/stack/stack_496_next_greater_number_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/stack/stack_503_next_greater_number_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetCode/slide_window/window_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetCode/slide_window/window_76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/slide_window/slide_window_76.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -810,7 +809,7 @@
       <workItem from="1592878134475" duration="152000" />
       <workItem from="1593450212366" duration="1310000" />
       <workItem from="1593623398870" duration="4106000" />
-      <workItem from="1593703053475" duration="7927000" />
+      <workItem from="1593703053475" duration="14017000" />
     </task>
     <task id="LOCAL-00001" summary="add: zk分布式锁、并发打印自然数">
       <created>1581931051727</created>
@@ -854,11 +853,43 @@
       <option name="project" value="LOCAL" />
       <updated>1593797645125</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="null">
+      <created>1593839419675</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593839419675</updated>
+    </task>
+    <task id="LOCAL-00008" summary="null">
+      <created>1593839445664</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593839445664</updated>
+    </task>
+    <task id="LOCAL-00009" summary="null">
+      <created>1593839531460</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593839531460</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -875,7 +906,8 @@
     <MESSAGE value="add: [动态规划Dp_cache] 最长公共子序列" />
     <MESSAGE value="add: [滑动窗口] 0" />
     <MESSAGE value="add: [BFS] 0" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: [BFS] 0" />
+    <MESSAGE value="null" />
+    <option name="LAST_COMMIT_MESSAGE" value="null" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1360" y="-20" key="#Notifications" timestamp="1592446664809">
@@ -886,16 +918,17 @@
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
     <state x="-1147" y="31" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1587543099339" />
-    <state x="314" y="2" key="CommitChangelistDialog2" timestamp="1593839462272">
+    <state x="314" y="2" key="CommitChangelistDialog2" timestamp="1593839531042">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="-1364" y="-84" key="CommitChangelistDialog2/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592412917543" />
     <state x="206" y="2" key="CommitChangelistDialog2/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593488601148" />
-    <state x="314" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1593839462272" />
-    <state x="0" y="0" width="1280" height="800" key="DiffContextDialog" timestamp="1593797575408">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="314" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1593839531042" />
+    <state x="0" y="0" width="1280" height="800" key="DiffContextDialog" timestamp="1593850294515">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="0" y="0" width="1280" height="800" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1593797575408" />
+    <state x="0" y="0" width="1280" height="800" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1593850259279" />
+    <state x="0" y="0" width="1280" height="800" key="DiffContextDialog/0.23.1280.777@0.23.1280.777" timestamp="1593850294515" />
     <state width="1238" height="329" key="GridCell.Tab.0.bottom" timestamp="1593797613731">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -952,22 +985,22 @@
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
     <state x="-1920" y="-225" width="1920" height="1080" key="SettingsEditor/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592447112346" />
-    <state x="370" y="150" width="552" height="524" key="StructurePopup" timestamp="1593835581521">
+    <state x="370" y="150" width="552" height="524" key="StructurePopup" timestamp="1593854146636">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592329891747" />
-    <state x="370" y="150" width="552" height="524" key="StructurePopup/0.0.1280.800@0.0.1280.800" timestamp="1593835581521" />
+    <state x="370" y="150" width="552" height="524" key="StructurePopup/0.0.1280.800@0.0.1280.800" timestamp="1593854146636" />
     <state x="-1365" y="-22" width="828" height="708" key="StructurePopup/0.23.1280.777/-1920.-202.1920.1057@-1920.-202.1920.1057" timestamp="1592330051289" />
-    <state width="576" height="445" key="SwitcherDM" timestamp="1593839509411">
+    <state width="576" height="445" key="SwitcherDM" timestamp="1593855292271">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="864" height="601" key="SwitcherDM/0.0.1280.800/-1920.-225.1920.1080@-1920.-225.1920.1080" timestamp="1592810845839" />
-    <state width="576" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1593839509411" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1593839447568">
+    <state width="576" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1593855292271" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1593839532948">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593488603344" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1593839447568" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1593839532948" />
     <state x="-1444" y="104" key="com.intellij.ide.util.TipDialog" timestamp="1592824975734">
       <screen x="-1920" y="-225" width="1920" height="1080" />
     </state>
@@ -978,10 +1011,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="428" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800/-1920.-225.1920.1080@0.0.1280.800" timestamp="1593747026828" />
-    <state x="309" y="162" width="661" height="476" key="find.popup" timestamp="1593837987697">
+    <state x="309" y="162" width="661" height="476" key="find.popup" timestamp="1593850280882">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="309" y="162" width="661" height="476" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1593837987697" />
+    <state x="309" y="162" width="661" height="476" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1593850280882" />
     <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1593835563955">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
