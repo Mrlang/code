@@ -1,4 +1,7 @@
 target/
-*.idea
 *.iml
 logs/
+.idea/
+.idea
+*.idea/
+*.idea
