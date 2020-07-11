@@ -1,4 +1,4 @@
-package leetCode.stack;
+package leetCode.monotonic_deque.monotonic_stack;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

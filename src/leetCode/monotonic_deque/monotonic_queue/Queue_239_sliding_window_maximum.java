@@ -1,4 +1,4 @@
-package leetCode.MonotonicQueue;
+package leetCode.monotonic_deque.monotonic_queue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
