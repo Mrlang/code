@@ -1,4 +1,4 @@
-package leetCode.monotonic_deque.monotonic_queue;
+package DoDoDo.slide_window;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
@@ -37,9 +37,11 @@ import java.util.Deque;
  * 链接：https://leetcode-cn.com/problems/sliding-window-maximum
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class Queue_239_sliding_window_maximum {
+public class Monotonic_Queue_239_sliding_window_maximum {
+//=============================================常规即可=======================================================//
     public int[] maxSlidingWindow(int[] nums, int k) {
         int length = nums.length;
+        if(length * k == 0) return new int[0];
         int[] res = new int[length - k  + 1];
         ArrayDeque<Integer> deque = new ArrayDeque<>();
         int j=0;
@@ -90,7 +92,7 @@ public class Queue_239_sliding_window_maximum {
 
 
 
-//====================================================================================================//
+//=============================================高阶=======================================================//
 
     ArrayDeque<Integer> deq = new ArrayDeque<Integer>();
     int [] nums;
