@@ -101,7 +101,7 @@ public class slide_window_30 {
         int left=0, right=0, step = word_length;
         while(right < s.length()) {
 
-            while() {
+            while(right < s.length()) {
                 left += step;
             }
 
