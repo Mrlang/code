@@ -1,5 +1,7 @@
 package DoDoDo.BFS;
 
+import DoDoDo.TreeNode;
+
 import java.util.ArrayDeque;
 import java.util.Deque;
 
@@ -34,12 +36,4 @@ public class BFS_111_min_depth_of_binary_tree {
         return depth;
     }
 
-
-
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) { val = x; }
-    }
 }
