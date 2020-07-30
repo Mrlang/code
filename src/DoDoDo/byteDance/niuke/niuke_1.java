@@ -53,6 +53,13 @@ public class niuke_1 {
             }else {
                 stack.pop();
             }
+
+            if(chars[i] == '(') {
+                stack.push(chars[i]);
+            }else if(stack.isEmpty() || stack.pop() != '(') {
+                System.out.print("NO");
+                return;
+            }
         }
 
         if(stack.isEmpty()) {
