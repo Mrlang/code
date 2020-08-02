@@ -5,7 +5,8 @@ import org.junit.Test;
 
 /**
  * Created by wangliang01 on 2019/10/25 using IDEA.
- * 题目：合并两个有序数组
+ *
+ * 题目88：合并两个有序数组
  * 给定两个有序整数数组 nums1 和 nums2，将 nums2 合并到 nums1 中，使得 num1 成为一个有序数组。
  *
  * 说明:
@@ -24,6 +25,9 @@ import org.junit.Test;
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/merge-sorted-array
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+ *
+ * TODO
+ *  对比2. 两数相加(两个链接相加)
  */
 public class Array_88_Merge_two_sorted_array {
 

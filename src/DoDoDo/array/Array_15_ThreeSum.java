@@ -10,8 +10,8 @@ import java.util.*;
  * 遍历数组,作为第一个数,剩下的元素里找另外两个数
  * 5个思路由块至慢
  * 思路1. 将整个数组排序,然后最左边元素和最右边元素求和,看和是否为sum,然后左右指针内移一步且保证nums[left] != nums[left+1]
- * 思路2. 同思路1,但是不要保证nums[left] != nums[left+1],用set去除重复解
- * 思路3. 同思路1,但是不要保证nums[left] != nums[left+1],用list手动去除重复解
+ * 思路2. 同思路1,但是不需要保证nums[left] != nums[left+1],是用set去除重复解
+ * 思路3. 同思路1,但是不需要保证nums[left] != nums[left+1],是用list手动去除重复解
  * 思路4. 不排序,最外层用set去重,剩下的元素进行遍历,放入set,通过set.contains(sum - a)得到符合的两个数
  * 思路5. 同思路4不排序,最外层用arrList手动去重,剩下的元素进行遍历,放入set,通过set.contains(sum - a)得到符合的两个数
  *
@@ -27,6 +27,7 @@ public class Array_15_ThreeSum {
         threeSum(nums);
     }
 
+    /*===============================================================思路1==============================================================*/
     public static List<List<Integer>> threeSum(int[] nums) {
         //TODO: 首要是这个数组必须有序
         Arrays.sort(nums);
@@ -57,6 +58,7 @@ public class Array_15_ThreeSum {
         return resList;
     }
 
+    /*===============================================================思路2==============================================================*/
     public static List<List<Integer>> threeSum2(int[] nums) {
         //TODO 解析: 首要是这个数组必须有序
         Arrays.sort(nums);
@@ -68,7 +70,7 @@ public class Array_15_ThreeSum {
                 while(left < right) {
                     if(nums[i] + nums[left] + nums[right] == sum) {
                         resList.add(Arrays.asList(nums[i], nums[left], nums[right]));
-//                        如果resLists是一个set的话，就不用一下去重判断了,set会去重
+//                        如果resLists是一个set的话，就不用以下去重判断了,set会去重
 //                        while(left < right && nums[left] == nums[left+1]) {
 //                            left++;
 //                        }
@@ -89,6 +91,7 @@ public class Array_15_ThreeSum {
     }
 
 
+    /*===============================================================思路4==============================================================*/
     public static List<List<Integer>> threeSum3(int[] nums) {
         List<List<Integer>> ansLst = new ArrayList<>();
         for(int i = 0; i < nums.length; i++) {

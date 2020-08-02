@@ -1,4 +1,4 @@
-package DoDoDo.array;
+package DoDoDo.byteDance;
 
 import com.alibaba.fastjson.JSON;
 import org.junit.Test;
@@ -25,7 +25,8 @@ import java.util.*;
  * 链接：https://leetcode-cn.com/problems/two-sum
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  *
- * 思路:新建一个map，以数组元素为键,元素下标为值。从开头遍历给定数组,如果map中contains(sum-当前数组元素),则取出map.get获取其下标和当前元素下标,返回即为所求。
+ * TODO
+ *   思路:新建一个map，以数组元素为键,元素下标为值。从开头遍历给定数组,如果map中contains(sum-当前数组元素),则取出map.get获取其下标和当前元素下标,返回即为所求。
  */
 public class Array_1_twoSum {
     public static  void main(String args[]){
@@ -34,6 +35,7 @@ public class Array_1_twoSum {
         System.out.println(JSON.toJSONString(list));
     }
 
+    /*===============================================================通过映射实现只需一次遍历==============================================================*/
     public static List twoSum(int[] nums, int target) {
         List<String> indexList = new ArrayList<>();
         Map<Integer,Integer> map = new HashMap<>();
